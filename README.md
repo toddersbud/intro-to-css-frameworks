@@ -4,10 +4,12 @@ Functionality is key to hackathons and student projects but we at Mission Data a
 Follow along live at:
 [Codebunk] (http://codebunk.com/b/86846745)
 
-[Bootstrap] ()
+Getting started with Bootstrap
+[Download Bootstrap] (http://getbootstrap.com/getting-started/#download)
+[Bootstrap Components Reference] (http://getbootstrap.com/components/)
 
+Themeing Bootstrap
 [Bootstrap Themes] (https://bootswatch.com/)
-
 [Flatly Bootstrap Theme] (https://bootswatch.com/flatly/)
 
 
