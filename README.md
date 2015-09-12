@@ -2,8 +2,8 @@
 Functionality is key to hackathons and student projects but we at Mission Data also believe that good looking apps gain more traction and encourage more use. CSS frameworks can help you get your web app looking good with minimal effort. No design background needed. 
 
 [Follow Along] (https://ide.c9.io/toddbudnikas/hophacks)
-- user: hophacks2015
-- pass: hophacks
+- user: _hophacks2015_
+- pass: _hophacks_
 
 CSS Frameworks
 - [Bootstrap] (http://getbootstrap.com)
