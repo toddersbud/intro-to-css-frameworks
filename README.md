@@ -1,7 +1,7 @@
 # An Intro to CSS Frameworks for the JHU Hop Hacks Hackathon
 Functionality is key to hackathons and student projects but we at Mission Data also believe that good looking apps gain more traction and encourage more use. CSS frameworks can help you get your web app looking good with minimal effort. No design background needed. 
 
-- [Follow Along] (https://ide.c9.io/toddbudnikas/hophacks)
+[Follow Along] (https://ide.c9.io/toddbudnikas/hophacks)
 - user: hophacks2015
 - pass: hophacks
 
