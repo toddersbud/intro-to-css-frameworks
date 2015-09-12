@@ -1,0 +1,16 @@
+body {
+    background:url('../images/restaurant_icons.png');
+}
+.logo {
+    display: block;
+}
+.logo img {
+    max-width:40%;
+}
+.well {
+    border:2px solid #065259;
+    border-radius:8px;
+    box-shadow: 0px 3px 15px rgba(0,0,0,.2);
+}
+.top-buffer {margin-top:80px;}
+.bottom-buffer {margin-bottom:20px;}
